@@ -1,0 +1,17 @@
+# Core dependencies
+streamlit>=1.51.0
+pandas>=2.0.0
+transformers>=4.30.0
+torch>=2.0.0
+
+# Speech recognition
+SpeechRecognition>=3.10.0
+pyaudio>=0.2.13
+
+# Additional dependencies for transformers
+huggingface-hub>=0.16.0
+tokenizers>=0.13.3
+safetensors>=0.3.1
+
+# Data handling
+numpy>=1.23.0
